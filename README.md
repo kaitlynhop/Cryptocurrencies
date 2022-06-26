@@ -17,8 +17,6 @@ In this project, data from cryptocurrency csv was analyzed using Unsupervised Ma
     - Total coins mined and total coin supply data was scaled using MinMaxScaler 
     - Scatter plot showing relationship was created separating by KMeans cluster groups
 
-### Purpose
-
 ### Resources
 **Data retrieval:** [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
 
